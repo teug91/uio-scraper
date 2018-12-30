@@ -1,0 +1,6 @@
+[Desktop Entry]
+Version=0.2
+Type=Application
+Name=uioscraper
+Exec=/usr/local/bin/uioscraper
+Terminal=true

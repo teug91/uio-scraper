@@ -1,7 +1,0 @@
-Package: uioscraper
-Version: 0.1
-Section: base
-Priority: optional
-Architecture: amd64
-Maintainer: Terje Uglebakken <https://github.com/teug91>
-Description: Tool for downloading pdf's and other files from UIO course pages.
